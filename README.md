@@ -2,9 +2,8 @@
 
 ## Introduction
 
-Introducing the **Idea Wallet** app. Built with React Native (expo).
-
-This report covers my approach and experience in designing and building this product from scratch and end-to-end. Basically, I got too carried away and no longer considered this as a college project but as an app for real users and for publishing to the app stores.
+Introducing the **Idea Wallet** app. Built with React Native (expo).This Mobile App for writing and storing your ideas.
+This report covers my approach and experience in designing and building this product from scratch and end-to-end. 
 
 ## Features
 
@@ -34,7 +33,7 @@ This report covers my approach and experience in designing and building this pro
 ## Running the app locally
 
 ```
-git clone https://github.com/NagariaHussain/idea-wallet
+git clone https://github.com/Bharat-kasera/Idea.git
 cd idea-wallet
 yarn # install dependencies
 npx expo start
@@ -84,7 +83,7 @@ Me! I designed and built this app so that I can use it as my idea wallet. Eventu
 
 ## Design
 
-Everything related to the design and prototype of the app can be found in this Figma file: <https://www.figma.com/file/mABEJmd0j52tGisoPglDiY/IdeaWalletApp?node-id=58%3A4928>. Basically, the product design cycle consisted of the below 4 phases/deliverables:
+Everything related to the design and prototype of the app can be found in this Figma file: <https://www.figma.com/design/uwmFLuPDPkF98hsrw8JGjU/Idea-Wallet?node-id=1-5585&t=DwYAxTZH5iAzseCa-1>. Basically, the product design cycle consisted of the below 4 phases/deliverables:
 
 1. User Flow Diagram
 2. Hand Sketches
