@@ -113,7 +113,7 @@ I placed my hand sketches into the figma file and started to create a lo-fi wire
 
 ### Hi-fi Wireframes / Visual Design
 
-![](.github/images/Hi-fi-wireframes.png)
+![](.github/images/Hi-fi.png)
 
 This is my favorite part of the Product Design process. In my opinion, it is all about iteration, iteration and iteration! I created a mood board with all kinds of app design inspiration from all over Dribble.
 
