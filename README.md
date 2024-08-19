@@ -86,9 +86,8 @@ Me! I designed and built this app so that I can use it as my idea wallet. Eventu
 Everything related to the design and prototype of the app can be found in this Figma file: <https://www.figma.com/design/uwmFLuPDPkF98hsrw8JGjU/Idea-Wallet?node-id=1-5585&t=DwYAxTZH5iAzseCa-1>. Basically, the product design cycle consisted of the below 4 phases/deliverables:
 
 1. User Flow Diagram
-2. Hand Sketches
-3. Lo-Fi Wireframes (Grayscale / Made in Figma)
-4. Hi-Fi Wireframes / Visual Design (Make it beautiful!)
+2. Lo-Fi Wireframes (Grayscale / Made in Figma)
+3. Hi-Fi Wireframes / Visual Design (Make it beautiful!)
 
 Believe me, I have spent as much time, if not more, in designing the app as it took me to develop it to the current point. But having every screen designed and ready, accelerated the development speed.
 
@@ -98,11 +97,6 @@ Here, I have mapped almost all the core actions that I want the user to be able 
 
 ![User Flow Diagram](.github/images/User-Flow-Diagram.jpg)
 
-### Hand Sketches
-
-Everything starts ugly. Period.
-
-![](.github/images/hand-sketches.png)
 
 ## Lo-fi Wireframes
 
